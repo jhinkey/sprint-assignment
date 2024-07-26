@@ -58,15 +58,21 @@ Create as many issues as you want to represent project work items.
 
 ## Create a sprint
 
-Every Scrum project comes with a sprint by default. You can edit the sprint and create more sprints.
+Every Scrum project comes with a sprint by default. You can edit the default sprint or create new ones. Here we'll edit the default sprint.
 
 1. Go to your project [Backlog](./placeholder).
 
-1. If you want to edit the current sprint, click `Add dates` (pencil icon) next to the sprint name. Otherwise, click `Create sprint` to create a new one. The sprint editor appears.
+1. Click `Add dates` (pencil icon) next to the default sprint name.
+
+    ![](./images/sprint-pencil-add-dates.png)
+
+    The sprint editor appears.
 
     ![](./images/edit-sprint.png)
 
-1. Edit any of the sprint attributes, and then save your changes.
+    Note, if you wanted to create a new sprint you would click `Create sprint` which would bring up a sprint editor for the new sprint.
+
+1. Edit any of the sprint attributes, and then click `Update`.
 
 ## Add issues to a sprint
 
