@@ -1,17 +1,19 @@
 # Manage Sprints
 
-You can break down long-term projects into goal-focused timeboxes called sprints. Each sprint consists of goal-related work items (issues) to complete in a timeframe. On completing a sprint, you should (in theory) achieve the sprint's goal. 
+You can break down long-term projects into goal-focused timeboxes called sprints. Each sprint consists of goal-related issues (work items) to complete in a timeframe. In theory, on completing a sprint, you should achieve the sprint goal. 
+
+The image below shows an ongoing sprint and its issues in a JIRA scrum board.
 
 ![](./images/sprint-board.png)
 
-<!-- Note, the issue and epic names in the above video screenshot are not realistic. If I had a JIRA account, I would use issues and epics with realistic names, add them to a sprint, and take a screenshot of them in a Scrum board. -->
+<!-- Note, the issue and epic names in the above video screenshot are not realistic. If I had a JIRA account, I would use issues and epics with realistic names, add them to a sprint, and take a screenshot of them in a scrum board. -->
 
 Here you will learn how to create, populate, and execute a sprint. 
 
 ## Prerequisites
 
 - You have a [JIRA account](./placeholder).
-- You have a [JIRA project](./placeholder), based on the JIRA Scrum template.
+- You have a [JIRA project](./placeholder), based on the JIRA scrum template.
 - Your JIRA account has [admin or project editor permissions](./placeholder).
 
 ## Create an epic
@@ -62,7 +64,7 @@ Create as many issues as you want to represent project work items.
 
 ## Create a sprint
 
-Every Scrum project comes with a sprint by default. You can edit the default sprint or create new ones. Here we'll edit the default sprint.
+Every scrum project comes with a sprint by default. You can edit the default sprint or create new ones. Here we'll edit the default sprint.
 
 1. Go to your project [Backlog](./placeholder).
 
@@ -90,7 +92,7 @@ Specify the work to complete in a sprint by adding the work issues to the sprint
 
 ## Start a sprint
 
-Starting a sprint populates the Scrum board with the sprint issues and starts metrics gathering on the sprint.
+Starting a sprint populates the scrum board with the sprint issues and starts metrics gathering on the sprint.
 
 1. Go to your project [Backlog](./placeholder).
 
@@ -100,9 +102,9 @@ Your sprint, and its issues, are now active and ready to work on.
 
 ## Update issue status
 
-The Scrum board is an easy place to monitor sprint progress and update issue status. The goal is to complete all sprint issues before the end of the sprint.
+The scrum board is an easy place to monitor sprint progress and update issue status. The goal is to complete all sprint issues before the end of the sprint.
 
-1. In your [Project](./placeholder) left navigation, click `Board`. Your Scrum board appears, showing the current sprint issues in the three columns:
+1. In your [Project](./placeholder) left navigation, click `Board`. Your scrum board appears, showing the current sprint issues in the three columns:
 
     - `TODO`
     - `IN PROGRESS`
