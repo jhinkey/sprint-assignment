@@ -11,7 +11,7 @@ Here you will learn how to create, populate, and execute a sprint.
 ## Prerequisites
 
 - You have a [JIRA account](./placeholder).
-- You have a [JIRA project](./placeholder), based on the JIRA's Scrum template.
+- You have a [JIRA project](./placeholder), based on the JIRA Scrum template.
 - Your JIRA account has [admin or project editor permissions](./placeholder).
 
 ## Create an epic
