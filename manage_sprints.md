@@ -2,7 +2,7 @@
 
 You can break down long-term projects into goal-focused timeboxes called sprints. Each sprint consists of goal-related issues (work items) to complete in a timeframe. In theory, on completing a sprint, you should achieve the sprint goal. 
 
-The image below shows an ongoing sprint and its issues in a JIRA scrum board.
+The JIRA scrum board below shows an ongoing sprint and its issues.
 
 ![](./images/sprint-board.png)
 
