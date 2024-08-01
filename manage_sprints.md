@@ -24,7 +24,9 @@ Epics represent large chunks of work to accomplish in your project. That work is
 
     ![](./images/create-an-epic.png)
 
-1. Enter a name for the epic. The Epic section lists your newly named epic.
+1. Enter a name for the epic. 
+
+The Epic section lists your newly named epic.
 
 Note: Epics are optional but are an easy way to organize tasks.
 
@@ -44,7 +46,9 @@ Use issues to define all your project work. Issues can represent user stories, t
 
     ![](./images/issue-types.png)
 
-1. In the text field, describe the work to be done. The Backlog section lists the issue, including an auto-generated ID and the issue description.
+1. In the text field, describe the work to be done.
+
+The Backlog section lists the issue, including an auto-generated ID and the issue description.
 
 Create as many issues as you want to represent project work items.
 
@@ -90,7 +94,9 @@ Starting a sprint populates the Scrum board with the sprint issues and starts me
 
 1. Go to your project [Backlog](./placeholder).
 
-1. Click `Start sprint`. Your sprint, and its issues, are now active and ready to work on.
+1. Click `Start sprint`.
+
+Your sprint, and its issues, are now active and ready to work on.
 
 ## Update issue status
 
